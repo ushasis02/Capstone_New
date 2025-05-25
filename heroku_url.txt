@@ -1,1 +1,1 @@
-https://sentimentbasedrecommendationsy.herokuapp.com/
+https://sentiment-us2-a24e5bb62282.herokuapp.com/
